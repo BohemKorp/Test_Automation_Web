@@ -16,7 +16,7 @@ Esta automatizacion busca validar todos los posibles flujos de la aplicacion des
 
 Abrir una ventana de comandos CMD y cambiar al directorio del proyecto
 
-    cd ruta donde se clono el proyecto\cpa_login_automation
+    cd ruta donde se clono el proyecto\Test_Automation_web
 
 Luego ejecutar el siguiente comando
         
