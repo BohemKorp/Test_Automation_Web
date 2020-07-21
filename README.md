@@ -30,5 +30,7 @@ Despues de ejecutar el comando se genera el reporte de serenity dentro de `targe
 
 ### Requisitos
 > Java 8
+
 > Maven 3.6
+
 > Firefox 78.0.2
